@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.hero_title{
+    text-align: center;
+    line-height: 100vh;
+    background: linear-gradient(#e66465, #9198e5);
+    font-family: 'Dancing Script', cursive;
+    font-size: xx-large;
+}
